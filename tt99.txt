@@ -79,3 +79,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.139:8880?encryption=none
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.12:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F#%40HiByeVPNN%F0%9F%91%88%E2%9A%A1%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
 vless://1c03bf51-6773-495f-8a44-4111b1ada9aa@68.183.216.44:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&path=%2Fws#Rayan%20-%20RVP%20-%20DE%20-%20II%20-%20%F0%9F%9F%A3%20t.me%2FRayan_Config
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh25v1.hiddendom.shop&alpn=h2&allowInsecure=1&type=grpc#telegram
+vless://e6a89117-9899-4f50-bd24-5f6960ee3c4d@ccone.fkknet.cn:56492?encryption=none&security=none&type=tcp&headerType=none#sG%20SG%E6%B5%81%E5%AA%92%E4%BD%93%E4%B8%93%E7%94%A89x0.8
+vless://e6a89117-9899-4f50-bd24-5f6960ee3c4d@ccone.fkknet.cn:56492?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20SG%E6%96%B0%E5%8A%A0%E5%9D%A16
