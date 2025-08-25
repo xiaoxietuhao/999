@@ -98,3 +98,5 @@ vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?encryption=none&s
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.184:8880?encryption=none&security=none&type=ws&host=sg.laoyoutiao.link&path=%2FTelegram%40WangCai2%2F#%E7%BE%8E%E5%9B%BD%20-%20%E8%81%96%E8%8D%B7%E8%A5%BF%20-%20Cloudflare%2C%20Inc.%20-%20343
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.25.25.7:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F#%E7%BE%8E%E5%9B%BD%20-%20%E8%81%96%E8%8D%B7%E8%A5%BF%20-%20Cloudflare%2C%20Inc.%20-%2088
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@170.114.46.254:8880?encryption=none&security=none&type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%E7%BE%8E%E5%9B%BD%20-%20%E8%81%96%E8%8D%B7%E8%A5%BF%20-%20Cloudflare%2C%20Inc.%20-%20144
+vless://e6a89117-9899-4f50-bd24-5f6960ee3c4d@ccone.fkknet.cn:33505?encryption=none&security=none&type=tcp&headerType=none#us%20US%E7%BE%8E%E5%9B%BD4
+
