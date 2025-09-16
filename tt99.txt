@@ -52,3 +52,5 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.167:443?encryption=none&se
 vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?encryption=none&security=none&type=tcp&headerType=none#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
 vless://871e1c55-f4e7-4c6a-8d9f-0957f98d1fe5@93.127.180.224:8586?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40filterk0sh%20%5B29%5D
 vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?encryption=none&security=tls&sni=uk-09.allhubb.info&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&host=uk-09.allhubb.info&path=%2F%3FTELEGRAM_JOIN_JKVPN_JKVPN_JKVPN_JKVPN&mode=auto#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+vless://e6a89117-9899-4f50-bd24-5f6960ee3c4d@ccone.fkknet.cn:56492?encryption=none&security=none&type=tcp&headerType=none#sg%20SG%E6%96%B0%E5%8A%A0%E5%9D%A16
+
